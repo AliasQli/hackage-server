@@ -118,6 +118,7 @@ common defaults
   build-depends:
     , aeson                 ^>= 2.0.3.0
     , Cabal                 ^>= 3.8
+    , process               == 1.6.15.0
     , fail                  ^>= 4.9.0
       -- we use Control.Monad.Except, introduced in mtl-2.2.1
     , network               >=  3 && < 3.2
