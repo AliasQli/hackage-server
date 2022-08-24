@@ -117,8 +117,8 @@ common defaults
   -- other dependencies shared by most components
   build-depends:
     , aeson                 ^>= 2.0.3.0 || ^>= 2.1.0.0
-    , Cabal                 ^>= 3.6.3.0
-    , Cabal-syntax          ^>= 3.6.0.0
+    , Cabal                 ^>= 3.8.0.0
+    , Cabal-syntax          ^>= 3.8.0.0
         -- Cabal-syntax needs to be bound to constrain hackage-security
         -- see https://github.com/haskell/hackage-server/issues/1130
     , fail                  ^>= 4.9.0
