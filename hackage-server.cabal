@@ -60,7 +60,7 @@ common defaults
 
   build-depends:
       process                == 1.6.14.0
-    , ghc
+    -- , ghc
 
   ghc-options: -Wall -fwarn-tabs -fno-warn-unused-do-bind -fno-warn-deprecated-flags -funbox-strict-fields
 
